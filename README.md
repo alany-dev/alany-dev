@@ -27,7 +27,7 @@
 - 网络协议支持：TCP  HTTP1.1/2.0 WebSocket
 - 模块化加载 Module
 
-### [分布式云存储](https://github.com/star-cs/CloudDistRAG)
+### [分布式云存储](https://github.com/star-cs/AI-CloudStorage)
 - 基于 sylar webserver 框架开发
 - MinIO 存储文件，MySQL 存储文件元数据，Redis 缓存，Postgresql 存储文件向量，PGVector 向量查询
 
