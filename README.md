@@ -2,20 +2,20 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=star-cs&theme=merko&show_icons=true" alt="Star-CS's GitHub stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-cs" alt="Top Langs"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=star-cs&theme=prussian&show_icons=true" alt="Star-CS's GitHub stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-cs&layout=compact" alt="Top Langs"></td>
   </tr>
 </table>
 
 # 关于我 👨‍💻
 - 27 届双非硕 CPP 选手
 
-
 # 技术栈 🔨
 - C/C++ 编程
 - Linux 网络编程
 - Linux 内核协议栈
 - eBPF (libbpf)
+- DPDK 
 
 # 项目介绍 🦉
 
@@ -39,9 +39,10 @@
 - 模块化加载 Module
 
 ## 学习项目 📚
-- [learning_ros2](https://github.com/star-cs/learning_ros2) 鱼香ros2
 - [libbpf 实践 学习项目](https://github.com/star-cs/libbpf-ebpf-beginer)
+- [dpdk 实践 学习项目](https://github.com/star-cs/dpdk-hands-on)
 - [C++20协程学习，tinyCoroLab 协程库lab](https://github.com/star-cs/coro) [C++20 协程 +  liburing]  Lab地址[tinyCoroLab](https://github.com/sakurs2/tinyCoroLab)
 - 即时聊天 [客户端 QT](https://github.com/star-cs/CChat_client)  [服务器端 Linux](https://github.com/star-cs/CChat_server) 恋恋风辰
-- [直播流媒体服务器 没做完😶‍🌫️](https://github.com/star-cs/TMMS-SERVER) 
+- [直播流媒体服务器 没做完😶‍🌫️](https://github.com/star-cs/TMMS-SERVER)
+- [learning_ros2](https://github.com/star-cs/learning_ros2) 鱼香ros2
 
