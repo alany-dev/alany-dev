@@ -11,38 +11,32 @@
 - 27 届双非硕 CPP 选手
 
 # 技术栈 🔨
-- C/C++ 编程
-- Linux 网络编程
-- Linux 内核协议栈
+- C/C++  Linux
+- ROS2 CyberRT 
 - eBPF (libbpf)
-- DPDK 
 
 # 项目介绍 🦉
 
 #### [Linux 性能监控平台](https://github.com/star-cs/NodeMonitor)  
+- 节点级监控，CPU，内存，存储，网络等性能指标
 - 内核模块，eBPF，/proc
 - 性能指标分析
 - gRPC 通信
 - Docker 容器化部署
 
-#### [分布式云存储](https://github.com/star-cs/AI-CloudStorage)
-- 基于 sylar webserver 框架二次开发
-- MinIO 存储文件，MySQL 存储文件元数据，Redis 缓存，Postgresql 存储文件向量，PGVector 向量查询
-
-#### [sylar webserver](https://github.com/star-cs/webserver)
-- 日志库 配置库 [非重点]
-- 协程库 IOSchedule Hook
-- 内存池[不可靠，用 jemalloc 替换]
-- 轻量级 ORM [支持 Mysql，sqlite3，Postgresql]
-- 异步 Redis [基于 libevent 的事件驱动线程池]
-- 网络协议支持：TCP  HTTP1.1/2.0 WebSocket
-- 模块化加载 Module
+#### [CyberRT-MX 分布式通信中间件](https://github.com/star-cs/CyberRT-MX)
+- 重写 CyberRT 框架
+- 原子变量和 CAS 操作实现 采用基础组件
+- 设计实现 序列化协议，支持基础数据类型、复合数据类型以及自定义数据类型
+- 日志系统，支持动态日志级别、文件自动轮转、流式接口
+- 有向图 构建通信拓扑关系，以Node为图顶点，Channel为图边，去中心化广播角色的加入与离开
+- 实现基于 FastRTPS 和 共享内存 的两种通信方式，进程间使用共享内存，不同主机间使用 FastRTPS
+- 使用观察者模式设计并实现 信号槽 机制，在订阅端为监听的 Channel 绑定槽函数，通过信号槽机制进行回调
 
 ## 学习项目 📚
+- [鱼香ros2 课程代码](https://github.com/star-cs/ros2bookcode) 
 - [libbpf 实践 学习项目](https://github.com/star-cs/libbpf-ebpf-beginer)
 - [dpdk 实践 学习项目](https://github.com/star-cs/dpdk-hands-on)
 - [C++20协程学习，tinyCoroLab 协程库lab](https://github.com/star-cs/coro) [C++20 协程 +  liburing]  Lab地址[tinyCoroLab](https://github.com/sakurs2/tinyCoroLab)
 - 即时聊天 [客户端 QT](https://github.com/star-cs/CChat_client)  [服务器端 Linux](https://github.com/star-cs/CChat_server) 恋恋风辰
-- [直播流媒体服务器 没做完😶‍🌫️](https://github.com/star-cs/TMMS-SERVER)
-- [learning_ros2](https://github.com/star-cs/learning_ros2) 鱼香ros2
-
+- [sylar webserver](https://github.com/star-cs/webserver)
