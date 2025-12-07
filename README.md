@@ -8,11 +8,11 @@
 </table>
 
 # 关于我 👨‍💻
-- 27 届双非硕 CPP 选手
+- 27 届双非硕 CPP 
 
 # 技术栈 🔨
 - C/C++  Linux
-- ROS2 CyberRT 
+- CyberRT 
 - eBPF (libbpf)
 
 # 项目介绍 🦉
