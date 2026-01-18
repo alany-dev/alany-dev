@@ -1,4 +1,4 @@
-#  Hi there 👋, I'm Star-CS <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+#  Hi there 👋, I'm Alan Yang <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <table>
   <tr>
@@ -8,7 +8,7 @@
 </table>
 
 # 关于我 👨‍💻
-- 27 届双非硕 CPP 
+- 27 届双非硕 CPP Dev
 
 # 技术栈 🔨
 - C/C++  Linux
