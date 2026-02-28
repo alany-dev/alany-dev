@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=alany-dev&theme=prussian&show_icons=true" alt="Star-CS's GitHub stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alany-dev&layout=compact&theme=prussian&size_weight=0.5&count_weight=0.5&hide=javascript,html,css,java" alt="Top Langs"></td>
+    <td><img src="https://github-readme-stats-5c8a.vercel.app/api?username=alany-dev&theme=prussian&show_icons=true"></td>
+    <td><img src="https://github-readme-stats-5c8a.vercel.app/api/top-langs/?username=alany-dev&layout=compact&theme=prussian&size_weight=0.5&count_weight=0.5&hide=javascript,html,css,java"></td>
   </tr>
 </table>
 
