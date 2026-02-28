@@ -7,10 +7,7 @@
   </tr>
 </table>
 
-# 关于我 👨‍💻
-- 27 届双非硕 CPP Dev
-
-# 技术栈 🔨
+# Skills 🔨
 - C/C++ Rust Python
 - ROS2 CyberRT
 - Linux eBPF (libbpf)
