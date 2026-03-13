@@ -8,7 +8,6 @@
 </table>
 
 # Skills 🔨
-- C/C++ Rust Python
+- C/C++ Python
 - ROS2 CyberRT
 - Linux eBPF (libbpf)
-- QEMU RISCV OS
